@@ -89,7 +89,7 @@ python3 -m pip install morgan
    provide the path of the package index via the `--index-path` flag).
 4. Copy the package index to the target environment, if necessary.
 5. Run the server using `python3 server.py`. Use `--help` for a full list of
-   flags and options. You can also use `morgan server` instead.
+   flags and options. You can also use `morgan serve` instead.
 
 ### Sample Configuration File
 
